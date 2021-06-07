@@ -18,7 +18,7 @@ Es gibt in dieser Beispielprüfung (wie auch in der Originalprüfung) nur folgen
 Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die einzig korrekte Antwort aus. Es gibt nur eine korrekte Antwort. Sie erhalten die angegebene Punktzahl für das Ankreuzen der korrekten Antwort.
 
 **P-Fragen (Mehrfachauswahlfragen, „Pick“):**
-Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die im Text vorgegebene Anzahl von zutreffenden oder korrekten Antworten aus. Kreuzen Sie maximal so viele Antworten an, wie im Einleitungstext verlangt werden. Sie erhalten für jede korrekte Antwort anteilig 1/n der Gesamtpunkte. Für jedes nicht-korrekte Kreuz wird 1/n der Punkte abgezogen.
+Wählen Sie zu einer Frage aus der Liste von Antwortmöglichkeiten die im Text vorgegebene Anzahl von zutreffenden oder korrekten Antworten aus. Kreuzen Sie maximal so viele Antworten an, wie im Einleitungstext verlangt werden. Sie erhalten für jede korrekte Antwort anteilig 1/n der Gesamtpunkte. Für jedes gesetzte, aber nicht geforderte Kreuz wird 1/n der Punkte abgezogen. Nicht gesetzte, aber geforderte Kreuze haben keine Auswirkung.
 
 **K-Fragen (Klärungsfragen, „Kreuz“):**
 Wählen Sie zu einer Frage die korrekte der beiden Optionen zu jeder Antwortmöglichkeit aus („richtig“ oder „falsch“ bzw. „zutreffend“ oder „nicht zutreffend“). Sie erhalten für jedes korrekt gesetzte Kreuz anteilig 1/n der Punkte. Nicht korrekt gesetzte Kreuze führen zum Abzug von 1/n der Punkte. Wird in einer Zeile KEINE Antwort ausgewählt, so gibt es weder Punkte noch Abzüge.
@@ -54,7 +54,7 @@ The multiple-choice questions of the mock exam are divided into three types of q
 Select the only correct answer to a question from the list of possible answers. There is only one correct answer. You receive the specified score for selecting the correct answer.
 
 **P-Questions (Pick-from-many, Pick Multiple):**
-Select the number of correct answers given in the text from the list of possible answers to a question. Select just as many answers as are required in the introductory text. You receive 1/n of the total points for each correct answer. For each incorrect cross, 1/n of the points are deducted.
+Select the number of correct answers given in the text from the list of possible answers to a question. Select just as many answers as are required in the introductory text. You receive 1/n of the total points for each correct answer. For each given but incorrect cross, 1/n of the points are deducted. Not given but requested crosses are ignored and don't have an impact.
 
 **K-Questions (Allocation Questions, Choose Category):**
 For a question, select the correct of the two options for each answer choice ("correct" or "incorrect" or "applicable" or "not applicable"). You will receive 1/n of the points for each correctly placed cross. Incorrectly placed crosses result in the deduction of 1/n of the points. If NO answer is selected in a line, there are neither points nor deductions.
